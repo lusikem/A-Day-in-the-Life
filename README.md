@@ -2,8 +2,6 @@
 
 **A Day in the Life** is a one-minute interactive story exploring the emotional challenges and everyday chaos faced by a single immigrant mother trying to navigate city life without a safety net.
 
-![Game screenshot](https://raw.githubusercontent.com/lusikem/A-Day-in-the-Life-Story/main/A%20Day%20in%20the%20Life.%20Storye%20image.png)
-
 
 Built using **Twine** and the **SugarCube** story format, the game invites players to experience not just the decisions, but the emotional weight behind them.
 
