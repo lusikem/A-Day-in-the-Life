@@ -45,8 +45,12 @@ This repository includes:
 ## Deployment
 
 You can upload the game to:
-- [Itch.io](https://itch.io) (as HTML5 playable)
-- Any static web host (GitHub Pages, Netlify, etc.)
+
+- [Itch.io](https://itch.io) — as a playable HTML5 game
+- [GitHub Pages](https://pages.github.com) — for free browser hosting  
+- [Netlify](https://www.netlify.com) — simple drag-and-drop or GitHub-based hosting  
+- [Vercel](https://vercel.com) — fast, customizable deployment for static sites
+
 
 ## Credits
 
